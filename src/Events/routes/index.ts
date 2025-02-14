@@ -5,7 +5,7 @@ const eventRoutes: RouteRecordRaw[] = [
   {
     name: types.EVENTS_HOME,
     path: '/events',
-    component: () => import('@Events:components/container/EventsHome.vue'),
+    component: () => import('@Events:container/EventsHome.vue'),
   },
 ]
 

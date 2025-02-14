@@ -7,11 +7,6 @@
 
     "paths": {
       "@/*": ["./src/*"],
-
-      "@Events:components/*": ["./src/Events/components/*"],
-      "@Events:routes/*": ["./src/Events/routes/*"],
-      "@Events:services/*": ["./src/Events/services/*"],
-      "@Events:utils/*": ["./src/Events/utils/*"]
     }
   }
 }
